@@ -5,6 +5,9 @@ datos/
 __MACOSX/
 .DS_Store
 
+# Datos
+state.csv
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
